@@ -26,7 +26,7 @@ const NewsList = () => {
             setLoading(true);
             try {
                 const response = await axios.get(
-                    'https://newsapi.org/v2/top-headlines?country=kr&apiKey=5ee667e19e3b47138bd2ef7b8a97f374',
+                    'https://newsapi.org/v2/top-headlines?country=kr&apiKey=6811653db7a1441bb0b172ec7ec0ed69',
                 );
                 setArticles(response.data.articles);
             } catch (e) {

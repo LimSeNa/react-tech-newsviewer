@@ -1,5 +1,5 @@
-# react-tech-immer
-리액트 ***뉴스 뷰 프로젝트*** 학습 내용 정리 및 예제 코드 저장소
+# react-tech-newsviewer
+***뉴스 뷰 프로젝트*** 학습 내용 정리 및 예제 코드 저장소
 <br>
 <br>
 
